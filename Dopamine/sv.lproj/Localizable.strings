@@ -1,0 +1,129 @@
+"Bootstrapping" = "Bootstrapping";
+
+"Button_Cancel" = "Avbryt";
+
+"Button_Hide_Jailbreak" = "Göm Jailbreak";
+
+"Button_Hide_Logs_Title" = "Göm Loggar";
+
+"Button_Jailbreak_Title" = "Jailbreak";
+
+"Button_Remove_Jailbreak" = "Ta Bot Jailbreak";
+
+"Button_Set_Mobile_Password" = "Ställ in rotlösenord";
+
+"Popup_Change_Mobile_Password_Message" = "Set the mobile password of your device, this can also be used for root access using sudo. If you want to set the root password, you can do so from a mobile shell using \"sudo passwd root\"";
+
+"Button_Set" = "Set";
+
+"Button_Show_Logs_Title" = "Visa Loggar";
+
+"Button_Unhide_Jailbreak" = "Visa Jailbreak";
+
+"Button_Update" = "Updatera";
+
+"Button_Update_Available" = "Uppdatering tillgänglig";
+
+"Bypassing PAC" = "Undviker PAC";
+
+"Bypassing PPL" = "Undviker PPL";
+
+"Changelog_Unavailable_Text" = "Ändringslogg ej tillgänglig";
+
+"Context_Menu_Copy_To_Clipboard" = "Kopiera till urklipp";
+
+"Credits_Button_License" = "Licens";
+
+"Credits_Button_Source_Code" = "Källkod";
+
+"Credits_Footer_Dopamine_Version %@\nOS:%@" = "Dopamine version %@\n%@";
+
+"Credits_Header_Special_Thanks" = "Speciellt tack:";
+
+"Credits_Made_By" = "Tillverkad av opa334, évelyne";
+
+"Credits_Made_By_Subheadline" = "UI av sourcelocation\nLogotyp och icon av xerus";
+
+"Finalizing Bootstrap" = "Slutför Bootstrap";
+
+"Gaining r/w" = "Får r/w";
+
+"Hint_Hide_Jailbreak" = "\"Göm Jailbreak\" tar tillfälligt bort jailbreak-relaterade filer tills nästa jailbreak";
+
+"Initializing Environment" = "Initiera miljö";
+
+"Initializing System Hook" = "Initialiserande systemkrok";
+
+"Jailbreak_Done" = "Färdig!";
+
+"Launching kexploitd" = "Startar kexploitd";
+
+"Launching oobPCI" = "Startar oobPCI";
+
+"Loading Basebin Trustcache" = "Laddar Basebin Trustcache";
+
+"Menu_Credits_Title" = "Om";
+
+"Menu_Reboot_Userspace_Title" = "Starta om Userspace";
+
+"Menu_Restart_SpringBoard_Title" = "Starta om SpringBoard";
+
+"Settings_iDownload" = "iDownload";
+
+"Settings_Tweak_Injection" = "Tweak Injection";
+
+"Settings_Verbose_Logs" = "Omfattande loggar";
+
+"Patchfinding" = "Patchfinding";
+
+"Rebuilding TrustCache" = "Bygger om TrustCache";
+
+"Refreshing Icon Cache" = "Uppfriskande ikoncache";
+
+"Settings_Footer_Device_Bootstrapped" = "Enheten är bootstrapsed";
+
+"Settings_Footer_Device_Not_Bootstrapped" = "Enheten är inte bootstrapsed";
+
+"Menu_Settings_Title" = "Inställningar";
+
+"Starting jailbreakd" = "Börjar jailbreakad";
+
+"Starting Launch Daemons" = "Startar Launch Daemons";
+
+"Status_Title_Jailbreaking" = "Jailbreaking";
+
+"Status_Title_Jailbroken" = "Jailbroken";
+
+"Status_Title_Select_Package_Managers" = "Välj pakethanterare";
+
+"Status_Title_Unsuccessful" = "Misslyckad";
+
+"Success_Rate %@%% (%lld/%lld)" = "Framgångsfrekvens: %@%% (%lld/%lld)";
+
+"Title_Changelog" = "Ändringslogg";
+
+"Title_Made_By" = "by opa334, évelyne\nUI by sourceloc\nBased on Fugu15";
+
+"Title_Supported_iOS_Versions" = "iOS 15.0 - 15.4.1 | A12 - A15, M1";
+
+"Update_Log_Hint_Scrollable" = "Loggvy kan scrollas";
+
+"Update_Status_Downloading" = "Laddar ned uppdatering...";
+
+"Update_Status_Installing" = "Installerar uppdatering...";
+
+"Update_Status_Subtitle_Please_Wait" = "Vänta medan filer laddas ned";
+
+"Update_Status_Subtitle_Restart_Soon" = "Enheten kommer snart att starta om";
+
+"Alert_Button_Uninstall" = "Uninstall";
+
+"Alert_Tweak_Injection_Toggled_Body" = "For changes to apply you need to reboot Userspace. Do you want to reboot now?";
+
+"Popup_Change_Mobile_Password_Title" = "Change Mobile Password";
+
+"Settings_Remove_Jailbreak_Alert_Body" = "Removing jailbreak will delete all jailbreak-related files, but all regular apps, files and data will be kept. Are you sure you want to continue? You can't undo this action.";
+
+"Settings_Remove_Jailbreak_Alert_Title" = "Remove Jailbreak";
+
+"Settings_Tweak_Injection_Toggled_Alert_Title" = "Userspace reboot required";
