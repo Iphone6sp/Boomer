@@ -1,0 +1,105 @@
+"Credits_Made_By" = "Сделано opa334, évelyne";
+
+// Log
+"Status_Title_Jailbreaking" = "Выполнение джейлбрейка";
+"Log_Error" = "Неудачно";
+
+// Jailbreak Button
+"Button_Jailbreak_Title" = "Джейлбрейк";
+"Status_Title_Jailbroken" = "Джейлбрейк выполнен";
+"Unsupported" = "Не поддерживается";
+
+// Action Menu
+"Menu_Settings_Title" = "Настройки";
+"Menu_Restart_SpringBoard_Title" = "Перезапустить SpringBoard";
+"Menu_Reboot_Userspace_Title" = "Перезагрузить Userspace";
+"Menu_Credits_Title" = "Благодарности";
+
+// Updating
+"Button_Update" = "Обновить";
+"Button_Update_Available" = "Доступно обновление";
+"Button_Update_Environment" = "Обновить переменную среду";
+
+// Update View
+"Update_Status_Downloading" = "Загрузка обновления...";
+"Update_Status_Subtitle_Please_Wait" = "Пожалуйста подождите, пока файлы будут загружены";
+"Update_Status_Installing" = "Установка обновления...";
+"Update_Status_Subtitle_Restart_Soon" = "Устройство скоро перезагрузится";
+"Title_Changelog" = "Список изменении";
+"Changelog_Unavailable_Text" = "Список изменений недоступен";
+
+// Removed Jailbreak Alert
+/*Removed_Jailbreak_Alert_Title*/
+/*Removed_Jailbreak_Alert_Message*/
+/*Button_Close*/
+
+// Error View
+/*Button_Share*/
+/*Button_Reboot*/
+
+// Settings Toggles
+"Settings_Tweak_Injection" = "Внедрение твиков";
+"Settings_iDownload" = "iDownload (Терминал разработчика)";
+"Settings_Verbose_Logs" = "Расширенные логи";
+
+// Settings Buttons
+"Button_Remove_Jailbreak" = "Удалить джейлбрейк";
+"Button_Hide_Jailbreak" = "Скрыть джейлбрейк";
+"Button_Unhide_Jailbreak" = "Отобразить джейлбрейк";
+/*Button_Refresh_Jailbreak_Apps*/
+"Button_Reinstall_Package_Managers" = "Переустановить менеджеры пакетов";
+
+// Settings Hints
+"Hint_Hide_Jailbreak" = "\"Скрыть джейлбрейк\" временно удаляет файлы, связанные с джейлбрейком, до следующего джейлбрейка";
+"Hint_Hide_Jailbreak_Jailbroken" = "\"Скрыть джейлбрейк\" частично отключает джейлбрейк и стремится сделать обнаружение более сложным. Однако это не совсем эффективно и скрывает не всё.";
+/*Section_Jailbreak_Settings*/
+/*Section_Actions*/
+/*Section_Customization*/
+/*Section_Exploits*/
+
+// Settings Alerts
+/*Alert_Tweak_Injection_Toggled_Title*/
+"Alert_Tweak_Injection_Toggled_Body" = "Чтобы изменения вступили в силу, нужно перезагрузить Userspace. Перезагрузить сейчас?";
+/*Alert_Tweak_Injection_Toggled_Reboot_Now*/
+/*Alert_Tweak_Injection_Toggled_Reboot_Later*/
+"Alert_Remove_Jailbreak_Title" = "Удаление джейлбрейка";
+"Alert_Remove_Jailbreak_Pressed_Body" = "Удаление джейлбрейка приведет к удалению всех файлов, связанных с джейлбрейком, но все обычные приложения, файлы и данные будут сохранены. Вы уверены, что хотите продолжить? Вы не сможете отменить это действие.";
+/*Alert_Remove_Jailbreak_Enabled_Body*/
+"Button_Cancel" = "Отмена";
+/*Button_Continue*/
+
+// Duplicate Apps Errors
+/*Duplicate_Apps_Error_Dopamine_App*/
+/*Duplicate_Apps_Error_User_App*/
+/*Duplicate_Apps_Error_Icon_Cache*/
+
+// Settings Lists
+/*Theme*/
+/*Kernel Exploit*/
+/*PPL Bypass*/
+/*PAC Bypass*/
+
+// Credits
+"Credits_Button_Discord" = "Discord";
+"Credits_Button_License" = "Лицензия";
+"Credits_Button_Source_Code" = "Исходный код";
+
+// Logs
+"Initializing Environment" = "Инициализация переменной среды";
+/*Loading BaseBin TrustCache*/
+/*Applying Bind Mount*/
+/*Removing Jailbreak*/
+/*Elevating Privileges*/
+/*Cleaning Up Exploits*/
+/*Building Phys R/W Primitive*/
+/*Rebooting Userspace*/
+"Patchfinding" = "Поиск патчей";
+/*Exploiting Kernel (%@)*/
+/*Bypassing PAC (%@)*/
+/*Bypassing PPL (%@)*/
+
+// Package Manager selection
+"Status_Title_Select_Package_Managers" = "Выберите менеджер(ы) пакетов";
+"Select_Package_Managers_Install_Message" = "Если вы не знаете, какой из них выбрать, выберите Sileo";
+"Continue" = "Продолжить";
+

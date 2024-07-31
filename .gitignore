@@ -1,0 +1,15 @@
+.DS_Store
+/.build
+/*.xcodeproj
+xcuserdata/
+xcshareddata/
+DerivedData/
+.swiftpm/xcode/
+/Package.resolved
+/Server/orig.ipa
+/Server/serverCert/fullchain.cer
+/Server/serverCert/server.key
+Dopamine/Dopamine/bootstrap/tmp/
+.idea
+Tools/fastPathSign/.build_*
+Exploits/kfd/kfd.framework/kfd
