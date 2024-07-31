@@ -1,0 +1,113 @@
+"Credits_Made_By" = "作者：opa334, évelyne (ElleKit)";
+
+// Log
+"Status_Title_Jailbreaking" = "正在越狱";
+"Log_Error" = "发生错误";
+
+// Jailbreak Button
+"Button_Jailbreak_Title" = "越狱";
+"Status_Title_Jailbroken" = "已越狱";
+"Unsupported" = "不支持";
+
+// Action Menu
+"Menu_Settings_Title" = "设置";
+"Menu_Restart_SpringBoard_Title" = "重启 SpringBoard";
+"Menu_Reboot_Userspace_Title" = "重启用户空间";
+"Menu_Credits_Title" = "关于";
+
+// Updating
+"Button_Update" = "更新";
+"Button_Update_Available" = "有更新可用";
+"Button_Update_Environment" = "更新环境";
+
+// Update View
+"Update_Status_Downloading" = "正在下载更新...";
+"Update_Status_Subtitle_Please_Wait" = "请等待文件下载完成";
+"Update_Status_Installing" = "正在安装更新...";
+"Update_Status_Subtitle_Restart_Soon" = "设备即将重启";
+"Title_Changelog" = "更新日志";
+"Changelog_Unavailable_Text" = "更新日志不可用";
+
+// Removed Jailbreak Alert
+"Removed_Jailbreak_Alert_Title" = "已移除越狱";
+"Removed_Jailbreak_Alert_Message" = "已成功移除越狱，建议重启设备。";
+"Button_Close" = "关闭";
+
+// Error View
+"Button_Share" = "分享";
+"Button_Reboot" = "重启";
+
+// Settings Toggles
+"Settings_Tweak_Injection" = "插件注入";
+"Settings_iDownload" = "iDownload (开发者终端)";
+"Settings_Verbose_Logs" = "详细日志";
+"Settings_Apps_JIT" = "允许在应用程序中使用JIT";
+
+// Settings Buttons
+"Button_Remove_Jailbreak" = "移除越狱";
+"Button_Hide_Jailbreak" = "隐藏越狱";
+"Button_Unhide_Jailbreak" = "取消隐藏越狱";
+"Button_Refresh_Jailbreak_Apps" = "刷新越狱应用";
+"Button_Reinstall_Package_Managers" = "重新安装包管理器";
+"Button_Change_Mobile_Password" = "修改\"mobile\"密码";
+
+// Settings Hints
+"Hint_Hide_Jailbreak" = "“隐藏越狱”将在下次越狱前移除部分可能导致越狱检测的文件。";
+"Hint_Hide_Jailbreak_Jailbroken" = "“隐藏越狱”将禁用部分越狱功能以提升检测越狱的难度，不过这并不能完全防止应用检测到越狱。";
+"Section_Jailbreak_Settings" = "越狱设置";
+"Section_Actions" = "操作";
+"Section_Customization" = "自定义";
+"Section_Exploits" = "漏洞利用";
+
+// Settings Alerts
+"Alert_Tweak_Injection_Toggled_Title" = "需要重启用户空间";
+"Alert_Tweak_Injection_Toggled_Body" = "需要重启用户空间才能应用更改，你现在要重启吗？";
+"Alert_Tweak_Injection_Toggled_Reboot_Now" = "立即重启";
+"Alert_Tweak_Injection_Toggled_Reboot_Later" = "稍后重启";
+"Alert_Remove_Jailbreak_Title" = "移除越狱";
+"Alert_Remove_Jailbreak_Pressed_Body" = "“移除越狱”将移除所有和越狱相关的文件，而常规的 App、文档及数据不会受到任何影响。请注意，此操作无法撤销。确认要移除越狱吗？";
+"Alert_Remove_Jailbreak_Enabled_Body" = "“移除越狱”将在下次越狱时移除所有和越狱相关的文件，而常规的 App、文档及数据不会受到任何影响。请注意，此操作无法撤销。确认要移除越狱吗？";
+"Alert_Change_Mobile_Password_Body" = "这将会在您的设备上设置“mobile”用户的密码，该密码可以用于使用sudo命令。如果要设置root密码，请在shell中使用命令“sudo passwd root”。";
+"Password_Placeholder" = "密码";
+"Repeat_Password_Placeholder" = "重复密码";
+"Button_Change" = "修改";
+"Button_Cancel" = "取消";
+"Button_Continue" = "继续";
+
+// Duplicate Apps Errors
+"Duplicate_Apps_Error_Dopamine_App" = "检测到多个标识符为 \"%@\" 的应用在 Dopamine 应用目录中 (\"%@\")，无法继续。";
+"Duplicate_Apps_Error_User_App" = "检测到标识符为 %@ 的应用程序存在于 Dopamines 应用目录中 (\"%@\") ，但其已被单独安装在系统上，无法继续。";
+"Duplicate_Apps_Error_Icon_Cache" = "检测到标识符为 \"%@\" 的应用程序存在于 Dopamine 应用程序目录中 (\"%@\")，但其已在不同路径 (\"%@\") 下注册了图标缓存，无法继续。";
+
+// Settings Lists
+"Theme" = "主题";
+"Kernel Exploit" = "内核漏洞";
+"PPL Bypass" = "PPL 绕过";
+"PAC Bypass" = "PAC 绕过";
+"None" = "无";
+"Recommended" = "推荐";
+
+// Credits
+"Credits_Button_Discord" = "Discord";
+"Credits_Button_License" = "许可证";
+"Credits_Button_Source_Code" = "源代码";
+
+// Logs
+"Initializing Environment" = "初始化环境";
+"Initializing Protection" = "初始化保护";
+"Loading BaseBin TrustCache" = "将基础套件加载至信任缓存（TrustCache）";
+"Applying Bind Mount" = "应用绑定挂载";
+"Removing Jailbreak" = "移除越狱";
+"Elevating Privileges" = "提升权限";
+"Cleaning Up Exploits" = "清理环境";
+"Building Phys R/W Primitive" = "构建硬件读写条件";
+"Rebooting Userspace" = "重启用户空间";
+"Patchfinding" = "查找地址";
+"Exploiting Kernel (%@)" = "正在利用内核 (%@)";
+"Bypassing PAC (%@)" = "正在绕过 PAC (%@)";
+"Bypassing PPL (%@)" = "正在绕过 PPL (%@)";
+
+// Package Manager selection
+"Status_Title_Select_Package_Managers" = "请选择包管理器";
+"Select_Package_Managers_Install_Message" = "如果你不确定选择哪一个比较好，请选择 Sileo";
+"Continue" = "继续";
