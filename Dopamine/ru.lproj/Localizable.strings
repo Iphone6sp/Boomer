@@ -1,0 +1,129 @@
+"Bootstrapping" = "Инициализация запуска";
+
+"Button_Cancel" = "Отмена";
+
+"Button_Hide_Jailbreak" = "Скрыть джейлбрейк";
+
+"Button_Hide_Logs_Title" = "Скрыть журналы";
+
+"Button_Jailbreak_Title" = "Джейлбрейк";
+
+"Button_Remove_Jailbreak" = "Удалить джейлбрейк";
+
+"Button_Set_Mobile_Password" = "Установить пароль Mobile";
+
+"Popup_Change_Mobile_Password_Message" = "Set the mobile password of your device, this can also be used for root access using sudo. If you want to set the root password, you can do so from a mobile shell using \"sudo passwd root\"";
+
+"Button_Set" = "Set";
+
+"Button_Show_Logs_Title" = "Показать журналы";
+
+"Button_Unhide_Jailbreak" = "Раскрыть джейлбрейк";
+
+"Button_Update" = "Обновить";
+
+"Button_Update_Available" = "Доступно обновление";
+
+"Bypassing PAC" = "Обход PAC";
+
+"Bypassing PPL" = "Обход PPL";
+
+"Changelog_Unavailable_Text" = "Ссписок изменений не доступен";
+
+"Context_Menu_Copy_To_Clipboard" = "Копировать в буфер обмена";
+
+"Credits_Button_License" = "Лицензия";
+
+"Credits_Button_Source_Code" = "Исходный код";
+
+"Credits_Footer_Dopamine_Version %@\nOS:%@" = "Dopamine версия %@\n%@";
+
+"Credits_Header_Special_Thanks" = "Особая благодарность:";
+
+"Credits_Made_By" = "Сделано opa334, évelyne";
+
+"Credits_Made_By_Subheadline" = "UI от sourcelocation\nЛоготип и иконка от xerus";
+
+"Finalizing Bootstrap" = "Завершение инициализации запуска";
+
+"Gaining r/w" = "Получение прав на чтение/запись";
+
+"Hint_Hide_Jailbreak" = "\"Скрыть джейлбрейк\" временно удаляет файлы, связанные с джейлбрейком, до следующего джейлбрейка";
+
+"Initializing Environment" = "Инициализация окружения";
+
+"Initializing System Hook" = "Инициализация системного хука";
+
+"Jailbreak_Done" = "Готово!";
+
+"Launching kexploitd" = "Запуск kexploitd";
+
+"Launching oobPCI" = "Запуск oobPCI";
+
+"Loading Basebin Trustcache" = "Загрузка Basebin Trustcache";
+
+"Menu_Credits_Title" = "Благодарности";
+
+"Menu_Reboot_Userspace_Title" = "Перезагрузить Userspace";
+
+"Menu_Restart_SpringBoard_Title" = "Перезапустить SpringBoard";
+
+"Settings_iDownload" = "iDownload";
+
+"Settings_Tweak_Injection" = "Внедрение твиков";
+
+"Settings_Verbose_Logs" = "Расширенные журналы";
+
+"Patchfinding" = "Поиск патчей";
+
+"Rebuilding TrustCache" = "Обновление TrustCache";
+
+"Refreshing Icon Cache" = "Обновление кэша иконок";
+
+"Settings_Footer_Device_Bootstrapped" = "Устройство Bootstrapped";
+
+"Settings_Footer_Device_Not_Bootstrapped" = "Устройство не Bootstrapped";
+
+"Menu_Settings_Title" = "Настройки";
+
+"Starting jailbreakd" = "Запуск jailbreakd";
+
+"Starting Launch Daemons" = "Запуск Launch Daemons";
+
+"Status_Title_Jailbreaking" = "Джейлбрейк";
+
+"Status_Title_Jailbroken" = "Джейлбрейк выполнен";
+
+"Status_Title_Select_Package_Managers" = "Выберите менеджер(ы) пакетов";
+
+"Status_Title_Unsuccessful" = "Неудачно";
+
+"Success_Rate %@%% (%lld/%lld)" = "Успешность: %@%% (%lld/%lld)";
+
+"Title_Changelog" = "Изменения";
+
+"Title_Made_By" = "by opa334, évelyne\nUI by sourceloc\nBased on Fugu15";
+
+"Title_Supported_iOS_Versions" = "iOS 15.0 - 15.4.1 | A12 - A15, M1";
+
+"Update_Log_Hint_Scrollable" = "Журнал может прокручиваться";
+
+"Update_Status_Downloading" = "Загрузка обновления...";
+
+"Update_Status_Installing" = "Установка обновления...";
+
+"Update_Status_Subtitle_Please_Wait" = "Пожалуйста, подождите, пока файлы будут загружены.";
+
+"Update_Status_Subtitle_Restart_Soon" = "Устройство скоро перезагрузится";
+
+"Alert_Button_Uninstall" = "Uninstall";
+
+"Alert_Tweak_Injection_Toggled_Body" = "For changes to apply you need to reboot Userspace. Do you want to reboot now?";
+
+"Popup_Change_Mobile_Password_Title" = "Change Mobile Password";
+
+"Settings_Remove_Jailbreak_Alert_Body" = "Removing jailbreak will delete all jailbreak-related files, but all regular apps, files and data will be kept. Are you sure you want to continue? You can't undo this action.";
+
+"Settings_Remove_Jailbreak_Alert_Title" = "Remove Jailbreak";
+
+"Settings_Tweak_Injection_Toggled_Alert_Title" = "Userspace reboot required";
